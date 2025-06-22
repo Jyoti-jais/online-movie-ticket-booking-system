@@ -1,1 +1,16 @@
 # online-movie-ticket-booking-system
+
+**Database Name: movietheatredb**
+
+jyoti jaiswal
+
+**Admin Login Details**
+
+Username: admin
+Password: password
+
+
+**Theatre Login Details**
+
+Username: THR760801
+Password: PWD649976
